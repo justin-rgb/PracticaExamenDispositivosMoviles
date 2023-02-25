@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "558947975517",
+    "project_id": "practica-examen-viernes-jvc",
+    "storage_bucket": "practica-examen-viernes-jvc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558947975517:android:0aa5ad35e08cac4460e8b4",
+        "android_client_info": {
+          "package_name": "com.azure.practicaexamenviernes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558947975517-uan1hled3aoc270khtuufodk7pdjsga3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azure.practicaexamenviernes",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "558947975517-bmupgeaelasp4qr0g7t61383edm5a9oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2fVzbQsdrVpS5es3vKbojdFYVEBOtwTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558947975517-bmupgeaelasp4qr0g7t61383edm5a9oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558947975517-tqq0neauro8l3ad83lbks7eg135m7ti2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azure.practicaexamenviernes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
